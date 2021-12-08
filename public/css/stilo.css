@@ -1,0 +1,22 @@
+.jumbotronEncabezado{
+    background: #152D35;
+    margin-bottom: 0;
+    border-radius: 0%;
+    text-align: center;
+}
+
+.img-perf{
+    width: 20em;
+    height: 20em;
+}
+
+.jumbotronfooter{
+    background: #6D8299;
+}
+
+h5{
+    color: black;
+}
+.p{
+    color: black;
+}
